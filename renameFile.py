@@ -1,6 +1,12 @@
 import os
 from natsort import natsorted
 
+"""
+You need to install natsort with pip install natsort
+Simple program to rename files and incrementing them.
+Insert file path and the number of file you want to rename.
+"""
+
 path = r""
 nb_file = 3 # ~N
 renamed = 0 # N-1~
